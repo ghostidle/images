@@ -2,32 +2,32 @@
   "movies": [
     {
       "movie": "Mario",
-      "year": 2015,
+      "year": 2012,
       "rating": 7.8,
-      "duration": "Super Mario",
-      "director": "Super Smash Bros.",
+      "duration": "141 min",
+      "director": "Joss Whedon",
       "tagline": "A new age begins",
       "cast": [
         {
-          "name": "Super Mario"
+          "name": "Robert Downey Jr."
         },
         {
-          "name": "SSB"
+          "name": "Chris Evans"
         },
         {
-          "name": "Mario odysey"
+          "name": "Mark Ruffalo"
         }
       ],
       "image": "https://raw.githubusercontent.com/mrdami3n/images/master/icon_00000000-00000002.png",
-      "story": "I ate a peanut now im ill."
+      "story": "When Tony Stark and Bruce Banner try to jump-start a dormant peacekeeping program called Ultron, things go horribly wrong and it's up to Earth's Mightiest Heroes to stop the villainous Ultron from enacting his terrible plans."
     },
     {
       "movie": "Mario",
-      "year": 2222,
+      "year": 2014,
       "rating": 8.7,
-      "duration": "Super Mario",
-      "director": "Super Mario Bros.",
-      "tagline": "It's a me mario",
+      "duration": "169 min",
+      "director": "Christopher Nolan",
+      "tagline": "Mankind was born on Earth. It was never meant to die here.",
       "cast": [
         {
           "name": "Matthew McConaughey"
@@ -42,12 +42,12 @@
           "name": "Wes Bentley"
         }
       ],
-      "image": "https://raw.githubusercontent.com/mrdami3n/images/master/icon_00000000-00340102.png",
+      "image": "https://raw.githubusercontent.com/mrdami3n/images/master/icon_00000000-00000002.png",
       "story": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival."
     },
 	{
       "movie": "Mario",
-      "year": 2022,
+      "year": 2015,
       "rating": 4.0,
       "duration": "100 min",
       "director": "Josh Trank",
@@ -63,12 +63,12 @@
           "name": "Michael B. Jordan"
         }
       ],
-      "image": "https://raw.githubusercontent.com/mrdami3n/images/master/icon_00000000-003c0102.png",
+      "image": "https://raw.githubusercontent.com/mrdami3n/images/master/icon_00000000-00000002.png",
       "story": "Four young outsiders teleport to an alternate and dangerous universe which alters their physical form in shocking ways. The four must learn to harness their new abilities and work together to save Earth from a former friend turned enemy."
     },
 	{
-      "movie": "Mario",
-      "year": 2015,
+      "movie": "The Dark Knight",
+      "year": 2008,
       "rating": 9.0,
       "duration": "152 min",
       "director": "Christopher Nolan",
@@ -84,7 +84,7 @@
           "name": "Aaron Eckhart"
         }
       ],
-      "image": "https://raw.githubusercontent.com/mrdami3n/images/master/icon_00000000-003d0102.png",
+      "image": "https://jsonparsingdemo-cec5b.firebaseapp.com/jsonData/images/dark_knight.jpg",
       "story": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, the caped crusader must come to terms with one of the greatest psychological tests of his ability to fight injustice."
     },
     {
