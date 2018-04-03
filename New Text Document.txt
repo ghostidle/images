@@ -3,6 +3,7 @@
     {
       "movie": "Mario",
       "year": November 2014,
+	  "rating": 4.0,
       "duration": "Super Mario",
       "director": "Super Smash Bros.",
       "tagline": "Here we go!",
@@ -22,6 +23,7 @@
     },
     {
       "movie": "Mario",
+	  "rating": 4.0,
       "year": March 2015,
       "duration": "Super Mario",
       "director": "Super Mario Bros.",
