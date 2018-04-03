@@ -1,49 +1,44 @@
 {
-  "movies": [
+  "amiibo": [
     {
-      "movie": "Mario",
-      "year": 2017,
-      "rating": 7.8,
-      "duration": "141 min",
-      "director": "Super Mario Bros.",
-      "tagline": "A new age begins",
-      "cast": [
+      "name": "Mario",
+      "release date": November 2014,
+      "gameseries": "Super Mario",
+      "amiiboseries": "Super Smash Bros.",
+      "tagline": "Here we go!",
+      "Games": [
         {
-          "name": "Robert Downey Jr."
+          "name": "Super Smash Bros."
         },
         {
-          "name": "Chris Evans"
+          "name": "Super Mario Bros."
         },
         {
-          "name": "Mark Ruffalo"
+          "name": "Mario Odyssey"
         }
       ],
       "image": "https://raw.githubusercontent.com/mrdami3n/images/master/icon_00000000-00000002.png",
-      "story": "When Tony Stark and Bruce Banner try to jump-start a dormant peacekeeping program called Ultron, things go horribly wrong and it's up to Earth's Mightiest Heroes to stop the villainous Ultron from enacting his terrible plans."
+      "Info": "Mario™ never hesitates to leap into action when there’s trouble in the Mushroom Kingdom. Known for saving the world (and Princess Peach™) countless times from Bowser™, Mario is a true super star. He's got amazing jumping skills and makes use of a wide range of transformations. Mario has also powered up into countless roles: referee, doctor, sportsman, dancer, kart racer, and many more"
     },
     {
-      "movie": "Interstellar",
-      "year": 2014,
-      "rating": 8.7,
-      "duration": "169 min",
-      "director": "Christopher Nolan",
-      "tagline": "Mankind was born on Earth. It was never meant to die here.",
-      "cast": [
+      "name": "Mario",
+      "release date": March 2015,
+      "gameseries": "Super Mario",
+      "amiiboseries": "Super Mario Bros.",
+      "tagline": "Here we go!",
+      "Games": [
         {
-          "name": "Matthew McConaughey"
+          "name": "Super Smash Bros."
         },
         {
-          "name": "Anne Hathaway"
+          "name": "Super Mario Bros."
         },
         {
-          "name": "Jessica Chastain"
-        },
-        {
-          "name": "Wes Bentley"
+          "name": "Mario Odyssey"
         }
       ],
-      "image": "https://jsonparsingdemo-cec5b.firebaseapp.com/jsonData/images/interstellar.jpg",
-      "story": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival."
+      "image": "https://raw.githubusercontent.com/mrdami3n/images/master/icon_00000000-00340102.png",
+      "Info": Mario™ never hesitates to leap into action when there's trouble in the Mushroom Kingdom. Known for saving the world (and Princess Peach™) countless times from Bowser™, Mario is a true super star. He's got amazing jumping skills and makes use of a wide range of transformations. Mario has also powered up into countless roles: referee, doctor, sportsman, dancer, kart racer, and many more.
     },
 	{
       "movie": "Fantastic Four",
