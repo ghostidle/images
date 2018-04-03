@@ -9,13 +9,13 @@
       "tagline": "It's a me Mario",
       "cast": [
         {
-          "name": "Robert Downey Jr."
+          "name": "Super Smash Bros."
         },
         {
-          "name": "Chris Evans"
+          "name": "Super Mario Bros."
         },
         {
-          "name": "Mark Ruffalo"
+          "name": "Mario Odyssey"
         }
       ],
       "image": "https://raw.githubusercontent.com/mrdami3n/images/master/icon_00000000-00000002.png",
