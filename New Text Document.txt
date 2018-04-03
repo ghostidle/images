@@ -1,12 +1,12 @@
 {
-  "amiibo": [
+  "movies": [
     {
       "name": "Mario",
-      "release date": November 2014,
-      "gameseries": "Super Mario",
-      "amiiboseries": "Super Smash Bros.",
+      "year": November 2014,
+      "duration": "Super Mario",
+      "director": "Super Smash Bros.",
       "tagline": "Here we go!",
-      "Games": [
+      "cast": [
         {
           "name": "Super Smash Bros."
         },
@@ -18,15 +18,15 @@
         }
       ],
       "image": "https://raw.githubusercontent.com/mrdami3n/images/master/icon_00000000-00000002.png",
-      "Info": "Mario™ never hesitates to leap into action when there’s trouble in the Mushroom Kingdom. Known for saving the world (and Princess Peach™) countless times from Bowser™, Mario is a true super star. He's got amazing jumping skills and makes use of a wide range of transformations. Mario has also powered up into countless roles: referee, doctor, sportsman, dancer, kart racer, and many more"
+      "story": "Mario™ never hesitates to leap into action when there’s trouble in the Mushroom Kingdom. Known for saving the world (and Princess Peach™) countless times from Bowser™, Mario is a true super star. He's got amazing jumping skills and makes use of a wide range of transformations. Mario has also powered up into countless roles: referee, doctor, sportsman, dancer, kart racer, and many more"
     },
     {
       "name": "Mario",
-      "release date": March 2015,
-      "gameseries": "Super Mario",
-      "amiiboseries": "Super Mario Bros.",
-      "tagline": "Here we go!",
-      "Games": [
+      "year": March 2015,
+      "duration": "Super Mario",
+      "director": "Super Mario Bros.",
+      "tagline": "It's-a me, Mario!",
+      "cast": [
         {
           "name": "Super Smash Bros."
         },
@@ -38,7 +38,7 @@
         }
       ],
       "image": "https://raw.githubusercontent.com/mrdami3n/images/master/icon_00000000-00340102.png",
-      "Info": Mario™ never hesitates to leap into action when there's trouble in the Mushroom Kingdom. Known for saving the world (and Princess Peach™) countless times from Bowser™, Mario is a true super star. He's got amazing jumping skills and makes use of a wide range of transformations. Mario has also powered up into countless roles: referee, doctor, sportsman, dancer, kart racer, and many more.
+      "story": Mario™ never hesitates to leap into action when there's trouble in the Mushroom Kingdom. Known for saving the world (and Princess Peach™) countless times from Bowser™, Mario is a true super star. He's got amazing jumping skills and makes use of a wide range of transformations. Mario has also powered up into countless roles: referee, doctor, sportsman, dancer, kart racer, and many more.
     },
 	{
       "movie": "Fantastic Four",
